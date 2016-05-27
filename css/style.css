@@ -1,0 +1,34 @@
+#main {
+  background: #0df;
+  height: 100vh;
+}
+
+.circle {
+  background: #fff;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 0 auto;
+  padding-top: 40px;
+  font-size: 4.5em;
+  margin-bottom: 50px;
+  
+}
+
+.my-icon {
+  margin-top: -60px;
+}
+
+.cond {
+  position: relative;
+  top:-40px;
+  font-size: 14px;
+  
+}
+.celcius {
+  font-size: 20px;
+  margin-top:-20px;
+}
+.location {
+  font-size: 30px;
+}
